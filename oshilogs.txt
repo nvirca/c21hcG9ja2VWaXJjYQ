@@ -12,82 +12,74 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Virca =====
-[1]Virca       |10:26:35 | 03-11-2026| login OK @myvirca | score=0 rank=?
-[1]Virca       |10:26:35 | 03-11-2026| serverTime=2026-11-03T10:26:35.000Z local=2026-11-03T10:26:35.634Z
+[1]Virca       |10:22:47 | 04-11-2026| login OK @myvirca | score=0 rank=?
+[1]Virca       |10:22:47 | 04-11-2026| serverTime=2026-11-04T10:22:47.000Z local=2026-11-04T10:22:47.558Z
 --> [1]Virca menjalankan: Claim Daily
-[1]Virca       |10:26:36 | 03-11-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
---> [1]Virca menjalankan: Auto All Tasks (10 pending)
-[1]Virca       |10:26:36 | 03-11-2026| [1/10] 909af7fe (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117563759983640979
-[1]Virca       |10:26:36 | 03-11-2026| delay 10s...
-[1]Virca       |10:26:46 | 03-11-2026| [2/10] 7f765e65 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117563761512048012
-[1]Virca       |10:26:46 | 03-11-2026| delay 10s...
-[1]Virca       |10:26:57 | 03-11-2026| [3/10] 044a9851 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117563859284151855
-[1]Virca       |10:26:57 | 03-11-2026| delay 10s...
-[1]Virca       |10:27:07 | 03-11-2026| [4/10] b7f716d0 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117563726343716974
-[1]Virca       |10:27:07 | 03-11-2026| delay 10s...
-[1]Virca       |10:27:17 | 03-11-2026| [5/10] 9d9a53d3 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117563782323490410
-[1]Virca       |10:27:17 | 03-11-2026| delay 10s...
-[1]Virca       |10:27:28 | 03-11-2026| [6/10] 8ac1a107 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117563720708885739
-[1]Virca       |10:27:28 | 03-11-2026| delay 10s...
-[1]Virca       |10:27:39 | 03-11-2026| [7/10] 7354ea5e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117563741547364027
-[1]Virca       |10:27:39 | 03-11-2026| delay 10s...
-[1]Virca       |10:27:49 | 03-11-2026| [8/10] 07e2b02d (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117564088638779728
-[1]Virca       |10:27:49 | 03-11-2026| delay 10s...
-[1]Virca       |10:28:00 | 03-11-2026| [9/10] 55940470 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117564173965238463
-[1]Virca       |10:28:00 | 03-11-2026| delay 10s...
-[1]Virca       |10:28:10 | 03-11-2026| [10/10] 50117b4a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117564142743619706
-[1]Virca       |10:28:10 | 03-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Virca       |10:28:11 | 03-11-2026| [1/1] 909af7fe (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117564232471858517
+[1]Virca       |10:22:47 | 04-11-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+--> [1]Virca menjalankan: Auto All Tasks (6 pending)
+[1]Virca       |10:22:48 | 04-11-2026| [1/6] fefe8b6d (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117925056967334467
+[1]Virca       |10:22:48 | 04-11-2026| delay 10s...
+[1]Virca       |10:22:58 | 04-11-2026| [2/6] 9149dbd0 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117924991310770829
+[1]Virca       |10:22:58 | 04-11-2026| delay 10s...
+[1]Virca       |10:23:09 | 04-11-2026| [3/6] ba012859 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117925013570578461
+[1]Virca       |10:23:09 | 04-11-2026| delay 10s...
+[1]Virca       |10:23:19 | 04-11-2026| [4/6] 7f765e65 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117925376372534727
+[1]Virca       |10:23:19 | 04-11-2026| delay 10s...
+[1]Virca       |10:23:30 | 04-11-2026| [5/6] 6608dad0 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117925302181212162
+[1]Virca       |10:23:30 | 04-11-2026| delay 10s...
+[1]Virca       |10:23:40 | 04-11-2026| [6/6] 9d9a53d3 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117925208589485386
+[1]Virca       |10:23:40 | 04-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virca       |10:23:40 | 04-11-2026| [1/1] fefe8b6d (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/myvirca/status/2117925268620200376
 --> [1]Virca menjalankan: Watch Anime
-[1]Virca       |10:28:11 | 03-11-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Virca       |10:23:41 | 04-11-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Virca menjalankan: Read Article
-[1]Virca       |10:28:13 | 03-11-2026| news: null/34 artikel selesai dibaca
-[1]Virca       |10:28:14 | 03-11-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
-[1]Virca       |10:28:19 | 03-11-2026| news oshi-nft-24h-volume-no2-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:28:26 | 03-11-2026| news oshi-labs-new-features-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:28:35 | 03-11-2026| news smart-pocket-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:28:43 | 03-11-2026| news oshi-labs-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:28:50 | 03-11-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:28:58 | 03-11-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:29:05 | 03-11-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:29:12 | 03-11-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:29:20 | 03-11-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:29:27 | 03-11-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:29:34 | 03-11-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:29:41 | 03-11-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:29:49 | 03-11-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:29:57 | 03-11-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:30:04 | 03-11-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:30:11 | 03-11-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:30:19 | 03-11-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:30:26 | 03-11-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:30:34 | 03-11-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:30:41 | 03-11-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:30:50 | 03-11-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:30:57 | 03-11-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:31:04 | 03-11-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:31:12 | 03-11-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:31:19 | 03-11-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:31:27 | 03-11-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:31:36 | 03-11-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:31:43 | 03-11-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:31:54 | 03-11-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:32:01 | 03-11-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:32:12 | 03-11-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:32:19 | 03-11-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:32:26 | 03-11-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Virca       |10:32:34 | 03-11-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:23:42 | 04-11-2026| news: null/34 artikel selesai dibaca
+[1]Virca       |10:23:43 | 04-11-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
+[1]Virca       |10:23:48 | 04-11-2026| news oshi-nft-24h-volume-no2-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:23:57 | 04-11-2026| news oshi-labs-new-features-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:24:04 | 04-11-2026| news smart-pocket-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:24:11 | 04-11-2026| news oshi-labs-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:24:18 | 04-11-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:24:26 | 04-11-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:24:33 | 04-11-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:24:40 | 04-11-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:24:48 | 04-11-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:24:55 | 04-11-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:25:04 | 04-11-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:25:11 | 04-11-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:25:18 | 04-11-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:25:25 | 04-11-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:25:33 | 04-11-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:25:40 | 04-11-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:25:48 | 04-11-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:25:55 | 04-11-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:26:03 | 04-11-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:26:10 | 04-11-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:26:19 | 04-11-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:26:26 | 04-11-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:26:34 | 04-11-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:26:42 | 04-11-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:26:46 | 04-11-2026| news start-your-fan-creation: view GAGAL http=503
+[1]Virca       |10:26:51 | 04-11-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:26:58 | 04-11-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:27:06 | 04-11-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:27:14 | 04-11-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:27:22 | 04-11-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:27:29 | 04-11-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:27:36 | 04-11-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:27:44 | 04-11-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Virca       |10:27:52 | 04-11-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
 --> [1]Virca menjalankan: Quiz Anime
 --> [1]Virca menjalankan: Music Missions (realtime, bisa lama!)
-[1]Virca       |10:32:38 | 03-11-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
-[1]Virca       |10:32:38 | 03-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Virca       |10:27:56 | 04-11-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Virca       |10:27:56 | 04-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Virca menjalankan: Claim Missions
-[1]Virca       |10:32:39 | 03-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Virca       |10:27:57 | 04-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Virca menjalankan: Check Eligibility
 
 --- eligibility [1]Virca ---
   @? | score=0 rank=?
-  tasks    [--------------------] 0/10
+  tasks    [--------------------] 0/6
   missions: ERROR missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
   quiz     [?]
   watch: ERROR watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
@@ -96,39 +88,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=false
 
 --> [1]Virca menjalankan: Read Manga
-[1]Virca       |10:32:42 | 03-11-2026| manga: 13/13 chapter belum completed
-[1]Virca       |10:32:42 | 03-11-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Virca       |10:32:42 | 03-11-2026| manga ch1 (1): start GAGAL http=401
-[1]Virca       |10:32:45 | 03-11-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Virca       |10:32:45 | 03-11-2026| manga ch2 (450001): start GAGAL http=401
-[1]Virca       |10:32:48 | 03-11-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Virca       |10:32:48 | 03-11-2026| manga ch3 (2160001): start GAGAL http=401
-[1]Virca       |10:32:52 | 03-11-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Virca       |10:32:52 | 03-11-2026| manga ch4 (2400001): start GAGAL http=401
-[1]Virca       |10:32:55 | 03-11-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Virca       |10:32:55 | 03-11-2026| manga ch5 (2490001): start GAGAL http=401
-[1]Virca       |10:32:58 | 03-11-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Virca       |10:32:58 | 03-11-2026| manga ch6 (2610001): start GAGAL http=401
-[1]Virca       |10:33:01 | 03-11-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Virca       |10:33:02 | 03-11-2026| manga ch1 (180003): start GAGAL http=401
-[1]Virca       |10:33:05 | 03-11-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Virca       |10:33:05 | 03-11-2026| manga ch2 (990005): start GAGAL http=401
-[1]Virca       |10:33:08 | 03-11-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Virca       |10:33:08 | 03-11-2026| manga ch3 (1980001): start GAGAL http=401
-[1]Virca       |10:33:11 | 03-11-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Virca       |10:33:12 | 03-11-2026| manga ch1 (2100001): start GAGAL http=401
-[1]Virca       |10:33:15 | 03-11-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Virca       |10:33:15 | 03-11-2026| manga ch1 (2070001): start GAGAL http=401
-[1]Virca       |10:33:18 | 03-11-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Virca       |10:33:18 | 03-11-2026| manga ch2 (2520001): start GAGAL http=401
-[1]Virca       |10:33:21 | 03-11-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Virca       |10:33:22 | 03-11-2026| manga ch3 (2550001): start GAGAL http=401
+[1]Virca       |10:28:00 | 04-11-2026| manga: 13/13 chapter belum completed
+[1]Virca       |10:28:00 | 04-11-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Virca       |10:28:01 | 04-11-2026| manga ch1 (1): start GAGAL http=401
+[1]Virca       |10:28:04 | 04-11-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Virca       |10:28:04 | 04-11-2026| manga ch2 (450001): start GAGAL http=401
+[1]Virca       |10:28:07 | 04-11-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Virca       |10:28:07 | 04-11-2026| manga ch3 (2160001): start GAGAL http=401
+[1]Virca       |10:28:10 | 04-11-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Virca       |10:28:11 | 04-11-2026| manga ch4 (2400001): start GAGAL http=401
+[1]Virca       |10:28:14 | 04-11-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Virca       |10:28:14 | 04-11-2026| manga ch5 (2490001): start GAGAL http=401
+[1]Virca       |10:28:17 | 04-11-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Virca       |10:28:17 | 04-11-2026| manga ch6 (2610001): start GAGAL http=401
+[1]Virca       |10:28:20 | 04-11-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Virca       |10:28:21 | 04-11-2026| manga ch1 (180003): start GAGAL http=401
+[1]Virca       |10:28:24 | 04-11-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Virca       |10:28:25 | 04-11-2026| manga ch2 (990005): start GAGAL http=401
+[1]Virca       |10:28:28 | 04-11-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Virca       |10:28:28 | 04-11-2026| manga ch3 (1980001): start GAGAL http=401
+[1]Virca       |10:28:31 | 04-11-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Virca       |10:28:31 | 04-11-2026| manga ch1 (2100001): start GAGAL http=401
+[1]Virca       |10:28:34 | 04-11-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Virca       |10:28:35 | 04-11-2026| manga ch1 (2070001): start GAGAL http=401
+[1]Virca       |10:28:38 | 04-11-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Virca       |10:28:38 | 04-11-2026| manga ch2 (2520001): start GAGAL http=401
+[1]Virca       |10:28:41 | 04-11-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Virca       |10:28:41 | 04-11-2026| manga ch3 (2550001): start GAGAL http=401
 --> [1]Virca menjalankan: Get Gift
-[1]Virca       |10:33:25 | 03-11-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Virca       |10:28:45 | 04-11-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Virca menjalankan: Setup Profile
-[1]Virca       |10:33:25 | 03-11-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Virca       |10:28:45 | 04-11-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Virca menjalankan: Bind Wallet
-[1]Virca       |10:33:26 | 03-11-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Virca       |10:28:45 | 04-11-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 
 == RINGKASAN ==
-- Virca: daily=- | tasks OK 0/11 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
+- Virca: daily=- | tasks OK 0/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
